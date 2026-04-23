@@ -198,4 +198,4 @@ Gunakan controller yang sama melalui DI.
 
 Muhammad Iqbal Saputra
 D4 Teknik Informatika
-Politeknik Harapan Bersama
+Universitas Harkat Negeri
